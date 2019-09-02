@@ -60,7 +60,7 @@ namespace PRDB_Sqlite.BLL
                 {
                     V = String.Format("{{{0}}}[ 1, 1]", V);
                 }
-                
+
                 string[] seperator = { "||" };
                 string[] value = V.Split(seperator, StringSplitOptions.RemoveEmptyEntries);
 
@@ -78,9 +78,7 @@ namespace PRDB_Sqlite.BLL
                 }
             }
             catch
-            {
-               
-            }
+            { }
         }
 
         public ProbTriple(string V, string typeName)

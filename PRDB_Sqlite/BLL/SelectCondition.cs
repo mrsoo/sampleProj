@@ -346,7 +346,7 @@ namespace PRDB_Sqlite.BLL
             return CalculateCondition(rpn);
         }
 
-        private bool ExpressionValue(string Str)
+        private bool ExpressionValue(string Str) //str is a single expression ex:"(patient.bloodtype_= 'b')"
         {
             // Get Probabilistic Interval
             List<double> probInterval = convertConditionStringToProbInterVal(Str);

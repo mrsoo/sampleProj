@@ -1,0 +1,15 @@
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\bin\Debug\PRDB_Sqlite.Presentation.exe.config
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\bin\Debug\PRDB_Sqlite.Presentation.exe
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\bin\Debug\PRDB_Sqlite.Presentation.pdb
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.csprojAssemblyReference.cache
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\MainWindow.g.cs
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\App.g.cs
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation_MarkupCompile.cache
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation_MarkupCompile.lref
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\MainWindow.baml
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.g.resources
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.Properties.Resources.resources
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.csproj.GenerateResource.cache
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.csproj.CoreCompileInputs.cache
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.exe
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite.Presentation\obj\Debug\PRDB_Sqlite.Presentation.pdb

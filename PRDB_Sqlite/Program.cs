@@ -20,6 +20,11 @@ namespace PRDB_Sqlite
             DevExpress.Skins.SkinManager.Default.RegisterAssembly(typeof(DevExpress.UserSkins.OfficeSkins).Assembly);
 
             Application.SetCompatibleTextRenderingDefault(false);
+            //var a = new Dictionary<string, dynamic>();
+            //a.Add("string", "isString");
+            //a.Add("number", 123);
+            //a.Add("float", 1232.4);
+            //MessageBox.Show(a.ElementAt("string");
             Application.Run(new Form_Main());
         }
     }

@@ -50,6 +50,35 @@ D:\KLTN\PrDB-Sqlite\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key-icon.png
 D:\KLTN\PrDB-Sqlite\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\attribute.png
 D:\KLTN\PrDB-Sqlite\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.bmp
 D:\KLTN\PrDB-Sqlite\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\attribute.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\Blue cube.ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\exit.ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key-icon.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.bmp
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\new relation.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\newdb.ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\open relation.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\opendb (2).ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query delete.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query new.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query open.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query save.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query add.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\remove db d.ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\remove relation.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\save realtion.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\savedb (2).ico
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme open.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme edit.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme delete.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme add.png
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.resx
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.cs
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.designer.cs
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.exe.config
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.exe
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.pdb
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.BonusSkins.v19.1.dll
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.Data.v19.1.dll
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.Images.v19.1.dll
@@ -92,7 +121,6 @@ D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Vis
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.XtraScheduler.v19.1.Extensions.xml
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.XtraSpellChecker.v19.1.xml
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\System.Data.SQLite.xml
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
@@ -191,35 +219,6 @@ D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Vis
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.csproj.GenerateResource.cache
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.exe.licenses
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.csproj.CoreCompileInputs.cache
+D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.csproj.CopyComplete
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.exe
 D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.pdb
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\attribute.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\Blue cube.ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\exit.ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key-icon.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.bmp
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\key.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\new relation.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\newdb.ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\open relation.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\opendb (2).ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query delete.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query new.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query open.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query save.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\query add.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\remove db d.ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\remove relation.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\save realtion.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\savedb (2).ico
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme open.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme edit.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme delete.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\Images\scheme add.png
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.resx
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.cs
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\GUI\frm_new_scheme.designer.cs
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.exe.config
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.exe
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\bin\Debug\PRDB_Sqlite.pdb
-D:\uni\2018-2019\KHOALUANTOTNGHIEP\PRDB Visual Management System 130918\PRDB Visual Management System 130918\PRDB Source Codes\PRDB_Sqlite\PRDB_Sqlite\obj\x86\Debug\PRDB_Sqlite.csproj.CopyComplete

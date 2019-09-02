@@ -165,7 +165,7 @@ namespace PRDB_Sqlite.BLL
 
                        if (attributeOne.Equals(attributeTwo, StringComparison.CurrentCultureIgnoreCase))
                        {
-                           indexsRemove.Add(j);
+                           indexsRemove.Add(j); //j danh dau truong chung de bo ra
 
                            for (int k = relation.tuples.Count - 1; k >= 0; k--)
                            {
@@ -177,6 +177,8 @@ namespace PRDB_Sqlite.BLL
                                }
                                else
                                {
+                                    
+                                    //value is not equal
                                    relation.tuples.RemoveAt(k);
 
                                }
